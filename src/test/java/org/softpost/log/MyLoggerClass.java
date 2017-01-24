@@ -15,7 +15,7 @@ public class MyLoggerClass {
         public void test1(){
             //OFF, FATAL, ERROR, WARN, INFO, DEBUG and TRACE
             logger.fatal("Fatal message");
-            logger.error("Dump error");
+            logger.error("Dump error message");
             logger.warn("Warning message");
             logger.info("Hello - This is info");
             //Below messages will not be logged as we have set the log level as INFO

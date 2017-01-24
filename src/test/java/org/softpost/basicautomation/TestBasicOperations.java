@@ -14,7 +14,7 @@ public class TestBasicOperations {
 
     @Test
     public void testLaunch() throws Exception{
-        System.setProperty("webdriver.chrome.driver","C:\\Users\\reply\\Downloads\\Softwares\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\sagar\\Downloads\\Softwares\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
         //Maximize
