@@ -29,10 +29,5 @@ buildNumber.properties
 # Exclude maven wrapper
 !/.mvn/wrapper/maven-wrapper.jar
 
-.gitignore
-.idea/
-SeleniumProject.iml
-Test Results - Assertions_verifyTitle.html
-mylog4j.log
-pom.xml
-src/
+
+
