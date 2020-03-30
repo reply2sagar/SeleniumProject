@@ -11,7 +11,7 @@ public class SandpitTest {
     @Test
     public void test1(){
 
-        System.out.println("Hello");
+        System.out.println("Hello");;
         // System.setProperty("webdriver.gecko.driver","C:\\Users\\Sagar\\Softwares\\geckodriver-v0.11.0-win64\\geckodriver.exe");
         FirefoxDriver driver = new FirefoxDriver();
         driver.get("http://www.softpost.org");
